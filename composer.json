@@ -1,0 +1,15 @@
+{
+  "name": "ilanvac/email-service",
+  "description": "service that sending email",
+  "require-dev": {
+  },
+  "authors": [
+    {
+      "name": "BungHolem32",
+      "email": "ilanvac@gmail.com"
+    }
+  ],
+  "require": {
+    "swiftmailer/swiftmailer": "^5.4"
+  }
+}
