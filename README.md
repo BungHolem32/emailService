@@ -1,10 +1,10 @@
 # EmailService
 
-sending mail never been so easy.
+sending mail never been so easy !!
 
-this service based on the package swift mailer without any service 
+this service based on the package swift mailer.
 
-This Service have one method called sendEMail(Array $message)
+This Service have one method called sendEMail(Array $message).
 
 **USAGE:**
 
